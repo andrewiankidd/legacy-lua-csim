@@ -1,0 +1,1 @@
+lovedist.exe CS "CLYDEBANK_SIMULATOR" -e -c -d
